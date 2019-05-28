@@ -3,3 +3,6 @@
 "Skyrim"
 "The Elder Scrolls"
 "Dunmer"
+"Imperial"
+"Dagoth Ur"
+"Balmora"
